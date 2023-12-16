@@ -1,1 +1,3 @@
-[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://i.ytimg.com/an_webp/yixFW5ibKW4/mqdefault_6s.webp?du=3000&sqp=CJCK9qsG&rs=AOn4CLC5feRvt2SBS9KCKkWr-4r6bEizHw)https://i.ytimg.com/an_webp/yixFW5ibKW4/mqdefault_6s.webp?du=3000&sqp=CJCK9qsG&rs=AOn4CLC5feRvt2SBS9KCKkWr-4r6bEizHw" width="50%">](https://www.youtube.com/watch?v=yixFW5ibKW4 "Beehiliv Trailer: 55")
+[![Beehiliv Trailer: 55]          // Title
+(https://i.ytimg.com/an_webp/yixFW5ibKW4/mqdefault_6s.webp?du=3000&sqp=CJCK9qsG&rs=AOn4CLC5feRvt2SBS9KCKkWr-4r6bEizHw)] // Thumbnail
+(https://www.youtube.com/watch?v=yixFW5ibKW4&t=2s "Beehiliv : 55") 
