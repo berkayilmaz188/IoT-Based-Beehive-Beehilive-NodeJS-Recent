@@ -1,1 +1,1 @@
-[<img src="https://r.resimlink.com/ohIqUCOXz4i.png" width="50%">](https://youtu.be/yixFW5ibKW4?si=jWGIvflJUzW87K6- "Beehiliv Trailer: 55")
+[<img src="https://i9.ytimg.com/vi/yixFW5ibKW4/mqdefault.jpg?sqp=CJCZ9qsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBQgSSh_MA8=&rs=AOn4CLBTgnehkJhoSkjUAzoEouvNHEzqmw" width="50%">](https://youtu.be/yixFW5ibKW4?si=jWGIvflJUzW87K6- "Beehiliv Trailer: 55")
